@@ -1,0 +1,45 @@
+Staten Island check if they have duplicate ids
+
+2025
+
+Leave id as a separate column and then do separate site 
+
+Image data has top and bottom
+
+
+Id first then site names
+
+
+
+Put problematic csv into another data
+
+Put uncertain ones into this same civ 
+
+
+Exclude sex and age missing put it in problematic one
+
+
+
+Will take just 2025
+
+
+Id, Site, image path, sex, life stage, [width length 4 cols] 2025 only
+
+New csv for problematic data points
+
+If both sex and life stage are missing put into problematic
+
+
+
+10-15 as test images
+
+Just train on 80-90
+
+Resent convnext and see gradcam visualization
+
+
+resnet with region of interest. Then continue with convnext. One at a time
+
+Check out some data augmentation stuff
+
+cropping, other methods. No mixup cropping from one to another one. 
